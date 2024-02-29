@@ -1,0 +1,18 @@
+{
+    "name": "klinf/template",
+    "autoload": {
+        "psr-4": {
+            "Klinf\\Template\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IgorSantos03",
+            "email": "gamerfewigor@gmail.com"
+        }
+    ],
+    "require": {
+        "coffeecode/router": "^2.0",
+        "league/plates": "4.0.0-alpha"
+    }
+}

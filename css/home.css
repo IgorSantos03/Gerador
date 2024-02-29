@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+.containerHome {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+}
+
+.caixa {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 50%;
+}
+
+.summer {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.resultado{
+    text-indent: 4px;
+    border: 1px solid black;
+    resize: none;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

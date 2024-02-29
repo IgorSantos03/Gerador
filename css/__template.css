@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+footer{
+    position: absolute;
+    height: auto;
+    width: 100%;
+}
+
+.bg-conteudo{
+    background-color: #1e1e1e;
+}
+.bg-css{
+    background-color:#000000;
+}
